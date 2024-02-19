@@ -1,0 +1,16 @@
+.mainDiv {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 130px;
+  padding-right: 170px;
+  background-color: rgba(220, 81, 3, 1);
+}
+
+.firstDiv {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  color: rgba(255, 255, 255, 1);
+  font-size: 16px;
+  font-weight: 400;
+}
