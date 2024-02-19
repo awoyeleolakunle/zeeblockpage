@@ -1,0 +1,26 @@
+.aboutUsContainer {
+  border-bottom: 3px solid rgba(220, 81, 3, 0.9);
+  width: 15%;
+  margin: auto;
+  margin-top: -5%;
+  padding-bottom: -3px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.text {
+  text-align: left;
+  margin-bottom: 5px;
+  margin: auto;
+  padding-bottom: 5px;
+  margin-left: 10%;
+  margin-right: 5%;
+  font-size: 16px;
+}
+
+.about {
+  padding: 70px;
+  padding-bottom: 90px;
+}

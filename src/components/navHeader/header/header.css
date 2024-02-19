@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  /* padding: 100px, 100px, 22px, 100px; */
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

@@ -1,0 +1,13 @@
+.button {
+  padding-top: 12px;
+  justify-content: space-between;
+  border-radius: 16px;
+}
+
+button {
+  border-radius: 16px;
+  color: rgba(220, 81, 3, 0.9);
+  height: 38px;
+  width: 82px;
+  border: 1px solid #ffffff;
+}

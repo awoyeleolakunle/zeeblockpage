@@ -1,0 +1,6 @@
+.displayNavItemList {
+  justify-content: space-evenly;
+  justify-items: center;
+  display: flex;
+  list-style: none;
+}

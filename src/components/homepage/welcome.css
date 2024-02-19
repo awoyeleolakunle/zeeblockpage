@@ -1,0 +1,31 @@
+.mainContainer {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("https://s3-alpha-sig.figma.com/img/21bb/e426/f7cd505fb777b6dd2d870132a4ea2ea0?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DFUujhNETzdqRFICvhqts3AJlcuDNppkXR4-en2jVhtGUiVYA5oitxAOboPDN0P7W7W8vH8vK8ONmhgAns8HpcRrBASaWA1vafYMT41vtKrsPkE-5tDNBb4CvZeHmirny5te4B8ZD6AYgE8BbBsU9wMzBIvdmw1838nDcJrqdq1Y-IPuz3Dms1gUfzxgbe15cXYyLKJK2qReUWidxZdZwD2K6jwEunKXebIIt3Wpi96g-HW7TVPXA1cIgN3q~AUp9R2r0whUDqDj6eEv13TQmXhclqoSWOx3Fpslzziv0QjDq~BRU21u251L4rdRN6ETLTwJ3gfeu-DSYf-ZVYDk8Q__");
+  background-size: cover;
+  z-index: 0;
+}
+
+.overlay-color {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(220, 81, 3, 0.9);
+  z-index: 1;
+}
+
+.overlay-content {
+  position: relative;
+  z-index: 2;
+}

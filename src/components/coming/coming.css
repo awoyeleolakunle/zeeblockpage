@@ -1,0 +1,20 @@
+.comingContent {
+  color: rgba(255, 255, 255, 1);
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 64px;
+  word-spacing: 0.001cm;
+}
+
+.contactAndNotifyMe {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: -2%;
+}
+
+.comingDiv {
+  margin: auto;
+  padding-top: auto;
+  margin-top: 10%;
+}
