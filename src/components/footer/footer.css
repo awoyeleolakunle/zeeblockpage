@@ -1,13 +1,13 @@
 .mainDiv {
-  padding-top: 70px;
-  padding-bottom: 70px;
-
-  padding-right: 130px;
-
+  padding-left: 50px;
+  padding-right: 140px;
+  padding-top: 65px;
+  padding-bottom: 130px;
   background-color: rgba(220, 81, 3, 1);
   display: flex;
-  justify-content: space-evenly;
-  height: 300px;
+  flex-wrap: wrap;
+  justify-self: center;
+  justify-content: space-around;
 }
 
 .firstRow {
@@ -23,9 +23,10 @@
   border-radius: 8px;
   border: 2px solid white;
   margin-top: 6%;
-  width: 148%;
-  height: 40px;
-  text-align: calc(100-60);
+  width: 142%;
+  height: 35px;
+  padding-left: 13px;
+  padding-top: 3px;
 }
 .subscribeBtn {
   background-color: rgba(255, 255, 255, 1);
